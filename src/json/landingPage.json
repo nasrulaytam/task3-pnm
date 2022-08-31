@@ -1,0 +1,46 @@
+{
+    "rekening": [
+        {
+            "imageUrl": "/images/bank-muamalat",
+            "nameBank": "Bank Muamalat Pusat",
+            "address": "Gedung Arthaloka, Jakarta",
+            "nameRek": "PNM EKUITAS SYARIAH",
+            "noRek": "301-007-2537"
+        },
+        {
+            "imageUrl": "/images/bank-syariah-mandiri",
+            "nameBank": "Bank Syariah Mandiri",
+            "address": "Bendungan Hilir, Jakarta",
+            "nameRek": "PNM EKUITAS SYARIAH",
+            "noRek": "7015058786"
+        },
+        {
+            "imageUrl": "/images/bank-dbs",
+            "nameBank": "Bank DBS Indonesia, Jakarta",
+            "address": "Jl. Prof.Dr.Satrio Kav.3-5, Jakarta",
+            "nameRek": "REKSA DANA PNM EKUITAS SYARIAH",
+            "noRek": "3320046020"
+        },
+        {
+            "imageUrl": "/images/bank-bca",
+            "nameBank": "BCA, Jakarta",
+            "address": "Cabang Pacific Place",
+            "nameRek": "PNM EKUITAS SYARIAH",
+            "noRek": "5375-300-645"
+        },
+        {
+            "imageUrl": "/images/bank-mandiri",
+            "nameBank": "Mandiri, Jakarta",
+            "address": "Cabang Thamrin",
+            "nameRek": "PNM EKUITAS SYARIAH",
+            "noRek": "103-000-5817081"
+        },
+        {
+            "imageUrl": "/images/bank-btn",
+            "nameBank": "Bank BTN",
+            "address": "Cabang Jakarta Kuningan",
+            "nameRek": "PNM EKUITAS SYARIAH",
+            "noRek": "0000101300011303"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+$primary : #29ADDF;
+
+.nav-menu {
+    color: white;
+    font-weight: 400;
+}
+
+.hero {
+    background-color: #29ADDF;
+    
+}
+
+.categories {
+    background-color: #DEDFDF;
+}
+
+footer {
+    border-top: 1px solid gray;
+    padding-top: 50px;
+
+    .brand-tagline {
+        color: gray;
+        font-weight: 300;
+        margin-top: 8px;
+    }
+
+    .list-group-item {
+        padding: 0.3125rem 0;
+        border: 0;
+        a, span {
+            color: gray;
+            font-weight: 300;
+        }
+    }
+
+    .copyrights {
+        margin: 50px 0;
+        font-weight: 300;
+        color: gray;
+    }
+}
+
+@import "~bootstrap/scss/bootstrap";
